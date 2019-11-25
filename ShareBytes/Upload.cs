@@ -200,6 +200,7 @@ namespace ShareBytes
                 DGV.DataSource = null;
             }
             circularProgressBar1.Visible = false;
+            //test
         }
     }
 }
